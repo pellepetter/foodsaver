@@ -10,7 +10,7 @@ Final project for the Building AI course
 
 ## Summary
 
-A predictive algorithm that uses historical data for predicting the incoming demand for groceries in the coming week. This way grocery stores can optimize their supply of different products according to the expexted demand and thus reduce unnecessary waste and increase the profitability of the store.
+A predictive algorithm that uses historical data for predicting the incoming demand for groceries in the coming week. This way grocery stores can optimize their supply of different products according to the expexted demand and thus reduce waste
 
 
 ## Background
